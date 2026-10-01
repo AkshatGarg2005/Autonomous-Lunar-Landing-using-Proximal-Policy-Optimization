@@ -21,7 +21,7 @@ The goal of this implementation is to leverage the Actor-Critic framework via PP
 
 ## Project Directory Layout
 ```text
-LunarLander-PPO/
+Autonomous-Lunar-Landing-using-Proximal-Policy-Optimization/
 ├── models/
 │   └── ppo_lunarlander.zip     # Saved trained PPO policy network weights
 ├── logs/
@@ -47,7 +47,7 @@ Since the Box2D physics engine requires compiling C++ libraries locally on macOS
 1. **Clone the repository:**
 ```bash
 git clone https://github.com/AkshatGarg2005/Autonomous-Lunar-Landing-using-Proximal-Policy-Optimization
-cd LunarLander-PPO
+cd Autonomous-Lunar-Landing-using-Proximal-Policy-Optimization
 
 ```
 
